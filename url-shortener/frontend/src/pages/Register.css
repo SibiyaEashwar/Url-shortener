@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  background: linear-gradient(135deg, #2563eb, #1e40af);
+  font-family: Arial, sans-serif;
+}
+
+.register-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.register-card {
+  background: white;
+  padding: 40px;
+  width: 420px;
+  border-radius: 15px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+}
+
+.register-title {
+  text-align: center;
+  color: #2563eb;
+  margin-bottom: 25px;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.register-input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.register-btn {
+  width: 100%;
+  padding: 12px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.register-btn:hover {
+  background: #1e40af;
+}
+
+.register-link {
+  display: block;
+  text-align: center;
+  margin-top: 15px;
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.register-link:hover {
+  text-decoration: underline;
+}
