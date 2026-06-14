@@ -2,6 +2,9 @@
 
 A full-stack URL Shortener application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js). The application allows users to register, log in, create short URLs, track clicks, view analytics, and manage their URLs.
 
+##  YoutubeLink
+# https://youtu.be/0xX1DFxiG5U
+
 ## Features
 
 * User Registration and Login using JWT Authentication
@@ -60,6 +63,8 @@ url-shortener
 │
 └── README.md
 ```
+# ./architecture diagram.png
+
 
 ## Installation
 
