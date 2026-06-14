@@ -6,7 +6,7 @@ A full-stack URL Shortener application built using the MERN Stack (MongoDB, Expr
 # https://youtu.be/0xX1DFxiG5U
 
 ## Netlify
-# urlshort-analytical.netlify.app
+# https://urlshort-analytical.netlify.app/
 
 ## Features
 
