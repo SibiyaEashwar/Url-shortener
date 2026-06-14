@@ -5,6 +5,9 @@ A full-stack URL Shortener application built using the MERN Stack (MongoDB, Expr
 ##  YoutubeLink
 # https://youtu.be/0xX1DFxiG5U
 
+## Netlify
+# urlshort-analytical.netlify.app
+
 ## Features
 
 * User Registration and Login using JWT Authentication
