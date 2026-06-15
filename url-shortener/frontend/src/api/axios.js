@@ -1,5 +1,7 @@
 import axios from "axios";
 
-export default axios.create({
-  baseURL: "http://localhost:5000/api",
+const api = axios.create({
+  baseURL: "https://url-shortener-1-qson.onrender.com",
 });
+
+export default api;
