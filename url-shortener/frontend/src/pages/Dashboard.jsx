@@ -62,8 +62,8 @@ function Dashboard() {
         }
     };
     const copyUrl = (shortCode) => {
-        navigator.clipboard.writeText(
-            `http://localhost:5000/api/url/${shortCode}`
+navigator.clipboard.writeText(
+            `${window.location.origin}/api/url/${shortCode}`
         );
 
         alert("Copied!");
